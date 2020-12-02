@@ -7,7 +7,10 @@
     <groupId>hellocucumber</groupId>
     <artifactId>hellocucumber</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <modules>
+        <module>calculator</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <dependencies>
         <dependency>
