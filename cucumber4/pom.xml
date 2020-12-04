@@ -5,13 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>hellocucumber</groupId>
-    <artifactId>hellocucumber</artifactId>
+    <artifactId>cucumber4</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <modules>
-        <module>calculator</module>
-        <module>cucumber4</module>
-    </modules>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
 
     <dependencies>
         <dependency>
